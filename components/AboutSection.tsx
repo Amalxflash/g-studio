@@ -36,7 +36,7 @@ export function AboutSection() {
               have something for every occasion and every taste.
             </p>
             <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-gray-600">
-              At SHOP.CO, we're not just selling clothes - we are helping you
+              At SHOP.CO, we are not just selling clothes - we are helping you
               express yourself through fashion. Our team of style experts is
               always on hand to offer advice and inspiration, helping you build
               a wardrobe that truly reflects your personality.
